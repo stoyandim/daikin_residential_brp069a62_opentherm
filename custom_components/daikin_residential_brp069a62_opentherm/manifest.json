@@ -1,13 +1,13 @@
 {
-  "domain": "daikin_residential_brp069a62",
-  "name": "Daikin Residential Controller for BRP069A62",
-  "version": "0.1.0",
-  "documentation": "https://github.com/bigfoot2020/daikin_residential_brp069a62",
+  "domain": "daikin_residential_brp069a62_opentherm",
+  "name": "Daikin Residential Controller for BRP069A62 (+ Opentherm)",
+  "version": "1.0",
+  "documentation": "https://github.com/stoyandim/daikin_residential_brp069a62_opentherm",
   "dependencies": [],
   "codeowners": [
-    "@bigfoot2020"
+    "@stoyandim"
   ],
-  "issue_tracker": "https://github.com/bigfoot2020/daikin_residential_brp069a62/issues",
+  "issue_tracker": "https://github.com/stoyandim/daikin_residential_brp069a62_opentherm/issues",
   "requirements": [
      "oic==1.2.1"
   ],
