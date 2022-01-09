@@ -13,6 +13,16 @@ This is an experimental release, tested on:
 - Equipped with BRP069A62 LAN Adapter
 - OpenTherm thermostat (in my case DOTROOMTHEAA).
 
+# What is working?
+- Enable/disable central heating 
+- Enable/disable domestic water heater
+- Enable/disable ECO mode for central heating
+- Configure temperature for the central heating thermostat
+- Configure temperature for the domestic water heater
+- Inside temperature sensor
+- Domestic water temperature sensor
+- Domestic water temperature setpoint sensor
+
 # Installation using HACS:
 
 Open "HACS" section then "Integrations" and click on three points menu at top right. Click on "Custom reporitories" and add repository "https://github.com/stoyandim/daikin_residential_brp069a62" with category "Integration".
