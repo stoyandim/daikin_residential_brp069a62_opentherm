@@ -1,7 +1,7 @@
 {
   "domain": "daikin_residential_brp069a62_opentherm",
   "name": "Daikin Residential Controller for BRP069A62 (+ Opentherm)",
-  "version": "1.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/stoyandim/daikin_residential_brp069a62_opentherm",
   "dependencies": [],
   "codeowners": [
