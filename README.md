@@ -1,4 +1,4 @@
-# HA integration for BRP069A62 LAN Adapter
+# HA integration for BRP069A62 LAN Adapter (+ OpenTherm)
 
 Home Assistant custom component for integration of Daikin Altherma 3C Gas with BRP069A62 LAN Adapter via Daikin Cloud. BRP069A62 firmware has to be updated to work with Daikin Residential Contoller app (connected to Daikin Cloud).
 
